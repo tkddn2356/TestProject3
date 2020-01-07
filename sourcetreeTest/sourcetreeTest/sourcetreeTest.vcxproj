@@ -153,6 +153,10 @@
   <ItemGroup>
     <ClCompile Include="sourcetreeTest.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dog.h" />
+    <ClInclude Include="tiger.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
